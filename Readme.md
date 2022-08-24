@@ -1,5 +1,5 @@
 # Cluster Theme extraction using Explicit Semantic Analysis
-This project is a part of the research assignment for the course Natural Language Processing (CS6370).
+This project is a research assignment part of the Natural Language Processing (CS6370) course.
 There are two main code files: NLP_project_NIPS and NLP_project_Newsgroup. 
 
 For NIPS dataset:
