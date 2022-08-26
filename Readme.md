@@ -18,5 +18,4 @@ For Newsgroup dataset:
 
 Entire dataset for single download can be found here: https://drive.google.com/drive/u/0/folders/1re-uo67YTH445fsOLsDvhFF1bOffWxtV	
 		
-Results of both of these is discussed in the results section of the report.
  
