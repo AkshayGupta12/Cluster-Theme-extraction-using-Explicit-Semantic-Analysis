@@ -1,5 +1,5 @@
 # Cluster Theme extraction using Explicit Semantic Analysis
-This project is a research assignment part of the Natural Language Processing (CS6370) course. We propose an unsupervised text clustering method in a semantically rich concept space along with heuristics to arrive at the theme of the document clusters.
+This project is a research assignment part of the **Natural Language Processing (CS6370) course at I.I.T. Madras**. We propose an unsupervised text clustering method in a semantically rich concept space along with heuristics to arrive at the theme of the document clusters.
 There are two main code files: NLP_project_NIPS and NLP_project_Newsgroup. 
 
 For NIPS dataset:
